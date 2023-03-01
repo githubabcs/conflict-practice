@@ -3,7 +3,7 @@
 **[PLAY IT HERE (http://ncase.me/polygons)](http://ncase.me/polygons)**
 
 ---
-My update 2
+My update 3
 
 This playable post is [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0).
 

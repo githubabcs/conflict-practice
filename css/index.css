@@ -12,11 +12,9 @@ body{
 	background-repeat: no-repeat;
 
 	overflow-x:hidden;
-
 }
 
 a {
-<<<<<<< HEAD
 	color: #000;
 }
 
@@ -28,7 +26,6 @@ a:hover{
 
 a:hover{
 	color: #dddddd;
->>>>>>> master
 }
 
 #intro_container, #outro_container{

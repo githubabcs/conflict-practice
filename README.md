@@ -1,9 +1,10 @@
 ![](http://i.imgur.com/NcsRW1q.png)
 
 **[PLAY IT HERE (http://ncase.me/polygons)](http://ncase.me/polygons)**
-
+New text here
 ---
-
+My update 3
+We should add this text
 This playable post is [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0).
 
 This repository is also being used as a part of GitHub training, to practice Git and GitHub.
@@ -18,3 +19,5 @@ Show us how you're using and remixing Parable of the Polygons!
 Tweet us at
 [@vihartvihart](https://twitter.com/vihartvihart) and
 [@ncasenmare](https://twitter.com/ncasenmare).
+
+New update here

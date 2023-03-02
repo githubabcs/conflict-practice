@@ -1,7 +1,7 @@
 ![](http://i.imgur.com/NcsRW1q.png)
 
 **[PLAY IT HERE (http://ncase.me/polygons)](http://ncase.me/polygons)**
-New text here
+Update line 4 on main
 ---
 My update 3
 We should add this text
